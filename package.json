@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+  },
+  "description": "SDK for working with payeer money API",
+  "keywords": [
+    "payeer",
+    "money",
+    "sdk"
+  ],
+  "main": "index.js",
+  "name": "payeer-payments-node-js-sdk",
+  "version": "0.0.1"
+}
