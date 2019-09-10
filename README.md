@@ -1,4 +1,9 @@
 # Инициализация формы оплаты
+Подключение:
+
+```javascript
+const QiwiBillPaymentsAPI = require('@qiwi/bill-payments-node-js-sdk');
+```
 
 1.Подключение модуля на странице генерации запроса
 
